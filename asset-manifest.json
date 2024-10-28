@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/ashirwad-deployement/static/css/main.3f123a64.css",
+    "main.js": "/ashirwad-deployement/static/js/main.d281cac9.js",
+    "static/js/453.3f8678d4.chunk.js": "/ashirwad-deployement/static/js/453.3f8678d4.chunk.js",
+    "static/media/redux.cjs": "/ashirwad-deployement/static/media/redux.7edfc461ab353f1712ab.cjs",
+    "index.html": "/ashirwad-deployement/index.html",
+    "main.3f123a64.css.map": "/ashirwad-deployement/static/css/main.3f123a64.css.map",
+    "main.d281cac9.js.map": "/ashirwad-deployement/static/js/main.d281cac9.js.map",
+    "453.3f8678d4.chunk.js.map": "/ashirwad-deployement/static/js/453.3f8678d4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3f123a64.css",
+    "static/js/main.d281cac9.js"
+  ]
+}
